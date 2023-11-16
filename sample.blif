@@ -1,0 +1,22 @@
+.model sample.blif
+.inputs a b c d e
+.outputs i j k
+.names a c d f
+111 1
+.names b c d g
+001 1
+010 1
+011 1
+100 1
+110 1
+.names f h
+0 1
+.names e f g i
+111 1
+.names b h i j
+100 1
+010 1
+001 1
+.names f i k
+11 1
+.end

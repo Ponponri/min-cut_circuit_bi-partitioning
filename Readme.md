@@ -4,7 +4,7 @@
 - gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 - Need to install gcc-multilib to run code in 32bit mode (auto install when operate make command).
 
-# Run code
+# Execute
 - Use "make" to make the project. You need to press your password to permit the sudo command.
 ```
 make
